@@ -1,0 +1,26 @@
+
+
+
+#specialBtn.card {
+    background-color: coral;
+}
+
+
+.specialBtn.card #text {
+    line-height: 1.5;
+
+}
+.mainTitle {
+    color: red;
+}
+.container {
+    background-color: rgb(42, 84, 121);
+}
+
+.card {
+    background-color: bisque;
+}
+
+.mainTitle {
+    color: brown;
+}

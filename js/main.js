@@ -71,3 +71,15 @@ function toggleArticle() {
         hideArtBtnEl.textContent = 'Show article';
     }
 }
+
+
+const specialBtn = document.getElementById('specialBtn');
+specialBtn.addEventListener('click', () => {
+    // sectionTitleEl.style.fontSize = '4rem';
+    // articleEl.style.backgroundColor = 'coral';
+    // articleEl.className += 'specialBtn';
+    articleEl.classList.toggle('specialBtn')
+
+
+});
+
